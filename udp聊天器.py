@@ -52,5 +52,6 @@ if __name__ == '__main__':
 
     # 关闭socket
     udp_socket.close()
-
+def zorozhang_test():
+    print("hello my friend!!!")
     # 提示：在同一台电脑上不能使用相同的端口号，在同一台电脑上端口号是唯一的
